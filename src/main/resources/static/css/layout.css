@@ -49,8 +49,9 @@ ul{
     padding: 4px;
 }
 .logo{
-    height: 50px;
-    width: 50px;
+	z-index: 99;
+    height: 57px;
+    width: 57px;
     left: 1rem;
     top: 1rem;
 }
